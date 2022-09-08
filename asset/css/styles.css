@@ -94,6 +94,10 @@ nav ul li{
 }
 
 .catcher{
+    width: 25rem;
+    padding: 0.625rem;
+    border-radius: 6px;
+    box-shadow: 0px 2px 15px 2px var(--primary-shadow);
     text-align: center;
 }
 

@@ -93,6 +93,10 @@ nav ul li{
     display: none;
 }
 
+.catcher{
+    text-align: center;
+}
+
 .catcher h1{
     font-size: var(--bolder-font);
     font-family: var(--font-family);

@@ -93,13 +93,20 @@ nav ul li{
     display: none;
 }
 
-.hero-catcher-text{
-    text-align: center;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
+.catcher h1{
+    font-size: var(--bolder-font);
+    font-family: var(--font-family);
+    margin-top: 0;
+}
+
+.catcher p{
+    font-size: var(--normal-font);
+    font-family: var(--font-family);
+    margin: 0 5rem 0 5rem;
+}
+
+.catcher svg{
+    display: block;
 }
 
 .hero{

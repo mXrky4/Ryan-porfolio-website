@@ -6,7 +6,7 @@
     --normal-font: 400;
     --bold-font: 700;
     --bolder-font: 900;
-    --bg-color: #ff2400;
+    --bg-color: #36454f;
     --primary-color: #00fa9a;
     --secondary-color: #5d3fd3;
     --primary-shadow: #8b8eadf;
@@ -56,7 +56,7 @@ nav{
     align-items: center;
     justify-content: space-between;
     padding: 1.5rem 3.5rem;
-    background-color: #000;
+    background-color: var(--bg-color);
     box-shadow: 0 3px 5px rgb(0, 0, 0);
 }
 
@@ -97,7 +97,7 @@ nav ul li{
     align-items: center;
     justify-content: center;
     gap: 2.5rem;
-    max-width: 68.75;
+    max-width: 68.75rem;
     margin: auto;
 }
 

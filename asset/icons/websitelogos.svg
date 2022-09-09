@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 261 160" width="261" height="160">
+	<title>websitelogo2</title>
+	<defs>
+		<image  width="192" height="127" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAAB/AQMAAACDjl/kAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAAAPqaW+7KogAAAAJ0Uk5TAP9bkSK1AAACPUlEQVR4nO2WTY7UMBBGHRnJmxHmBJhjsDNH4gBIzmgOwBE4yrjVB+AKGbFgSRCL6ZEyLqps56fLLhZoNkh4EXX8FPt7ldhupa7bByW0SegfZgHoiwDMIgCbBOBAAB7GPgjSEyDMMYCQSoPgYaA1f0MXC1MD3tPFQWzAJ7r0NHLOjsaQuzoamgYhjXdN0Fg0PjJgCZAGN3Q0FGoMvCYeiobm04dUNAwPnMuKGpYpDrmsqMGLoqmspMHLaOieNHjhNw3+qlaN5uWuGk0dV42m8qtGffYA0nphT9BtmZfNQcPnpDwVBcpu3IMUcjW4Od1nDV4rGiFr8OoO+ETVGK+AwhF6GtgRuxo4xNjVwEn7Gkq9LkF1s3JelaBDZ+WUoJ2VU4KGsQElqG/6a9C3DahBbxrQW+K59ZZ4br0lntvL7VRK2qlUkHZcL+3RbhKAjQIwowC00P+//etNb99b+VTDDtwoAB+vAeAmErtg0i8GLuWka1JtwCoBcME/AzOvwO9gwWPIJ0x1XtzDAhHsczKXCgAqeMbf7mkDJ4C7AgCmDSTHgP+5gfMBzBAedpDCeQdwKgA8nKi3gC87CP4+3mzAIrjdgYYjGCqA++hXkBCkCjz4GASAHgeAQ1kG/BVwyZ+TP4Lb5FZQPUIBWMcNZHOADAIWm4DNXb924CcJzAJwFZgLxUVwqgCzriDC12/4JcKPApbwSEDPPvo7AuFzBmZx3y/b+sAPJ6p+E0EQwCAdLOYvgDC3kY4i8a+8YSfObzdqlu7M/UNMAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Layer 1" href="#img1" x="36" y="18"/>
+</svg>

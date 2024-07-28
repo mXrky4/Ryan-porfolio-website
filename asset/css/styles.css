@@ -148,3 +148,14 @@ nav ul li{
     line-height: var(--line-height);
     padding: 0.3rem 0;
 }
+
+.game {
+    position: relative;
+  }
+  
+  iframe {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -1%);
+  }
